@@ -25,4 +25,4 @@ Circuit60 is rated 4+ and does not knowingly collect personal information from a
 
 ## Contact
 
-A public support URL will be provided before App Store submission.
+Support: https://github.com/GDemay/circuit60-support
